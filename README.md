@@ -1,5 +1,3 @@
-[3:48 PM, 9/25/2024] Aish: # COVID-19 Exploratory Data Analysis (EDA) using Pandas
-
 ## Overview
 This project focuses on performing exploratory data analysis (EDA) on a COVID-19 dataset to understand the impact of the pandemic across different countries and regions. The analysis involves data cleaning, exploration, and visualization of key statistics like confirmed cases, deaths, and recoveries. By leveraging the Pandas library for data manipulation and Matplotlib/Seaborn for visualization, this project provides insights into the trends and patterns in the spread of COVID-19.
 
@@ -12,7 +10,7 @@ The dataset used in this project is sourced from publicly available COVID-19 dat
 - Recoveries
 - Active cases
 
-The dataset can be downloaded from [COVID-19 Dataset](https://github.com/aishwarya0404/COVID-19-EDA-using-Pandas/blob/main/covid_19_data.csv).
+The dataset can be downloaded from https://github.com/Akhila-V-Raichur/COVID-19-Exploratory-Data-Analysis-EDA-using-Pandas/blob/main/COVID%20clinical%20trials.csv
 
 ## Installation
 Ensure you have Python installed (preferably 3.7 or later).
