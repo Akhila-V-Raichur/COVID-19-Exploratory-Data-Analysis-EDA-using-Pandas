@@ -1,3 +1,5 @@
+## COVID-19 Exploratory Data Analysis
+
 ## Overview
 This project focuses on performing exploratory data analysis (EDA) on a COVID-19 dataset to understand the impact of the pandemic across different countries and regions. The analysis involves data cleaning, exploration, and visualization of key statistics like confirmed cases, deaths, and recoveries. By leveraging the Pandas library for data manipulation and Matplotlib/Seaborn for visualization, this project provides insights into the trends and patterns in the spread of COVID-19.
 
